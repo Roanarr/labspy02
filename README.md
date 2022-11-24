@@ -1,4 +1,7 @@
 # labspy02
+
+
+
 nama = int(input('masukan nama: '))
 uts = int(input('masukan nilai UTS: '))
 uas = int(input('masukan nilai UAS: '))
